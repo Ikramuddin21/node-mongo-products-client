@@ -1,0 +1,9 @@
+.header {
+    margin-top: 20px;
+}
+
+.header a {
+    text-decoration: none;
+    margin: 0 15px;
+    color: black;
+}
